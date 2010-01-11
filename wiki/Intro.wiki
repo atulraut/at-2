@@ -1,0 +1,25 @@
+Introduction
+
+AT-2 used to test AT commands.
+
+Details
+
+Add your content here. Format your content with:
+
+    * AT-2 Started by open source enthusiasm people.
+    * Help to reach and understand low level functionality of Android Platform
+    * Help code developer for rapid development 
+
+Hardware:AT Commands
+From Android
+
+The protocol used to access the GSM chip is part of the GSM standard.
+
+"The chipset supports all of the mandatory ETSI GSM TS 07.07 commands.
+This GSM standard even has a command that lists the list of available commands (AT+CLAC)."
+
+See also:
+
+    * http://wiki.openezx.org/AT_commands
+    * http://www.3gpp.org/ftp/Specs/latest/Rel-7/27_series/27007-740.zip contains 27.007, "AT command set for User Equipment (UE)"
+    * http://www.3gpp.org/ftp/Specs/latest/Rel-7/27_series/27005-700.zip contains 27.005, "Use of Data Terminal Equipment - Data Circuit terminating Equipment (DTE - DCE) interface for Short Message Service (SMS) and Cell Broadcast Service (CBS)" 
