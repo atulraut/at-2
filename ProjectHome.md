@@ -1,0 +1,1 @@
+"AT -2" is an AT Test Suite application that Android Core Developer can use to test AT Commands with a front-end UI. It is to help Android Core Developers get feedback on AT Commands on different operators, and regions.

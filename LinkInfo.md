@@ -1,0 +1,5 @@
+# Android Platform Development Kit #
+
+http://www.netmite.com/android/mydroid/development/pdk/docs/
+http://www.netmite.com/android/mydroid/development/pdk/docs/telephony.html
+http://www.netmite.com/android/mydroid/development/pdk/docs/telephony.html#androidRilFunctionsSolicited
